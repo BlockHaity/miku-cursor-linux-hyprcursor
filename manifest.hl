@@ -1,4 +1,4 @@
-name = Extracted Theme
-description = Automatically extracted with hyprcursor-util
-version = 0.1
-cursors_directory = hyprcursors
+name = miku-cursor-linux-hyprcursor
+description = A hatsune miku themed cursor set for Hyprland
+version = 1.2.4 - From Xcursor Theme
+cursors_directory = miku-cursor-linux-hyprcursor
