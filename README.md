@@ -25,7 +25,7 @@ git clone https://github.com/blockhaity/miku-cursor-linux-hyprcursor.git
 然后，在 `~/.config/hypr/hyprland.conf` 中，添加以下两行于 ENVIRONMENT VARIABLES 中。
 
 ``` config
-env = HYPRCURSOR_THEME,miku-cursor-linux
+env = HYPRCURSOR_THEME,miku-cursor-linux-hyprcursor
 env = HYPRCURSOR_SIZE,24
 ```
 
@@ -42,7 +42,7 @@ env = HYPRCURSOR_SIZE,24
 然后，在 `~/.config/hypr/hyprland.conf` 中，添加以下两行于 ENVIRONMENT VARIABLES 中。
 
 ``` config
-env = HYPRCURSOR_THEME,miku-cursor-linux
+env = HYPRCURSOR_THEME,miku-cursor-linux-hyprcursor
 env = HYPRCURSOR_SIZE,24
 ```
 
